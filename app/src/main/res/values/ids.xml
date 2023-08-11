@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="imagetitle" type="id" />
+    <item name="texttitle" type="id" />
+    <item name="textdesc" type="id" />
+    <item name="detailsOfNote" type="id" />
+    <item name="dateNote" type="id" />
+    <item name="textDetail" type="id" />
+    <item name="noteCategory" type="id" />
+</resources>
